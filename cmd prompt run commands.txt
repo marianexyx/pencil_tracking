@@ -1,0 +1,6 @@
+cd C:\Users\mar\Desktop\OpenPose_demo_1.0.1\OpenPose_demo_1.0.1
+bin\OpenPoseDemo.exe --camera 0
+bin\OpenPoseDemo.exe --camera 0 --write_keypoint_json output/ --no_display --render_pose 0
+bin\OpenPoseDemo.exe --camera 0 --write_keypoint output/ --no_display --render_pose 0
+bin\OpenPoseDemo.exe --camera 0 --write_keypoint_format xml output/ --no_display --render_pose 0
+bin\OpenPoseDemo.exe --camera 0 --write_keypoint xml output/ --no_display --render_pose 0
